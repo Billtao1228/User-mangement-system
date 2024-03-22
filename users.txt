@@ -1,0 +1,8 @@
+UserID: 1, Name: John Doe, Information: Loves coding in C.
+UserID: 2, Name: Jane Smith, Information: Enjoys hiking and outdoor activities.
+UserID: 3, Name: Alice Johnson, Information: Passionate about digital art and design.
+UserID: 4, Name: Mark Brown, Information: Avid reader and writer.
+UserID: 5, Name: Emily Clark, Information: Enthusiastic about teaching and learning languages.
+UserID: 6, Name: David Wilson, Information: Drone photography and travel blogger.
+UserID: 7, Name: Sarah Miller, Information: Gardening and sustainable living advocate.
+UserID: 8, Name: James Anderson, Information: Competitive chess player and mathematician.
